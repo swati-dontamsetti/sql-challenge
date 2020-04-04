@@ -80,3 +80,19 @@ select last_name as "Last Name", count(last_name) as "Frequency of Employee Last
 from employees
 group by 1
 order by 2 DESC;
+
+-- Epilogue
+-- search for emp_no = 499942
+
+select e.emp_no, e.birth_date, e.first_name, e.last_name, e.gender, e.hire_date,
+	s.salary, d.dept_no, d.dept_name, t.title, t.from_date, t.to_date 
+from departments d
+inner join dept_emp de
+on d.dept_no = de.dept_no
+inner join employees e
+on de.emp_no = e.emp_no
+inner join salaries s
+on e.emp_no = s.emp_no
+inner join titles t
+on s.emp_no = t.emp_no
+where e.emp_no = 499942;

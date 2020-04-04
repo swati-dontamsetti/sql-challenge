@@ -63,3 +63,10 @@ Once you have a complete database, do the following:
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 ![8](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q8.png?raw=true)
+
+## Epilogue
+
+Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+
+![e1](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/E1.png?raw=true)
+![e2](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/E2.png?raw=true)

@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
+![sql.png](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/sql.png?raw=true)
 
 ## Background
 
@@ -34,39 +34,39 @@ Once you have a complete database, do the following:
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
-![1](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q1.png?raw=true)
+![1](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q1.png?raw=true)
 
 2. List employees who were hired in 1986.
 
-![2](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q2.png?raw=true)
+![2](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q2.png?raw=true)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
 
-![3](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q3.png?raw=true)
+![3](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q3.png?raw=true)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
-![4](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q4.png?raw=true)
+![4](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q4.png?raw=true)
 
 5. List all employees whose first name is "Hercules" and last names begin with "B."
 
-![5](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q5.png?raw=true)
+![5](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q5.png?raw=true)
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-![6](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q6.png?raw=true)
+![6](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q6.png?raw=true)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-![7](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q7.png?raw=true)
+![7](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q7.png?raw=true)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-![8](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/Q8.png?raw=true)
+![8](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/Q8.png?raw=true)
 
 ## Epilogue
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
-![e1](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/E1.png?raw=true)
-![e2](https://github.com/swati-dontamsetti/sql-challenge/blob/master/EmployeeSQL/E2.png?raw=true)
+![e1](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/E1.png?raw=true)
+![e2](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/E2.png?raw=true)

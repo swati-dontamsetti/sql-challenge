@@ -77,11 +77,15 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
    ```
 
 2. Create a histogram to visualize the most common salary ranges for employees.
+
 ![hist](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/hist.png?raw=true)
+
 * Analysis: As you can see from the table, the vast majority of employees have an entry level salary with less than half the company in any of the higher level positions (and therefore salary ranges). This does not seem like a realistic salary breakdown of a company.
 
 3. Create a bar chart of average salary by title.
+
 ![bar](https://github.com/swati-dontamsetti/sql-challenge/blob/master/Pics/bar.png?raw=true)
+
 * Analysis: As you can see from the table, the vast majority of employee titles have similar average salaries. Staff and Senior Staff have a slightly higher average salary, but only **slightly**. In an actual company, one would expect the Assistant Engineer, Engineer, and Senior Engineer to have vastly different average salaries, yet they are exactly the same average salary. This does not seem like a realistic salary breakdown of a company.
 
 ## Epilogue
